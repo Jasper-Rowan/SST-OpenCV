@@ -1,4 +1,4 @@
-# import cv2
+import cv2
 
 def handler(event, context):
   print('hello, jasper')
